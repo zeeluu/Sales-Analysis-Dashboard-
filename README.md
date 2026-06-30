@@ -14,9 +14,10 @@ DAX	--> KPI Measures & Calculations
 Microsoft Excel	--> Data Source
 Data Modeling -->	Relationship Management
 
+Data Source
 Source: Microsoft Excel Dataset
 Records: Sales Transaction Data
-Includes: 
+Includes:
 Order Date
 Product Name
 Category
@@ -25,5 +26,41 @@ State
 Sales
 Profit
 Quantity
+✨ Features / Highlights
 
-Features:
+✅ Interactive KPI Cards
+Total Sales
+Total Profit
+Total Orders
+Average Sales
+Profit Margin
+
+✅ Interactive Filters
+Order Date
+Category
+Segment
+State
+
+✅ Visualizations
+📈 Monthly Sales Trend
+📊 Sales by Category
+📍 Sales by State
+🍩 Sales by Segment
+📋 Product Sales & Profit Table
+
+✅ Business Insights
+Identify top-performing products
+Compare sales across states
+Analyze customer segments
+Track monthly sales trends
+Evaluate profitability
+📷 Dashboard Preview
+
+Sales Analysis Dashboard
+
+📈 Dashboard Overview
+The dashboard consists of:
+5 KPI Cards displaying Total Sales, Profit, Orders, Profit Margin, and Average Sales.
+4 Interactive Filters for customized analysis.
+5 Data Visualizations to explore sales trends, categories, states, customer segments, and product performance.
+A responsive and user-friendly layout for effective business intelligence reporting.
