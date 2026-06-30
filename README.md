@@ -1,7 +1,10 @@
+📊 Project Title
 Sales Analysis Dashboard | Power BI
 
+🚀 Headline
 An Interactive Power BI Dashboard for Analyzing Sales Performance, Profitability, Customer Segments, and Business Trends.
 
+📝 Short Description / Purpose
 This project is an interactive Sales Analysis Dashboard developed in Microsoft Power BI to help businesses monitor and analyze key sales metrics. It provides valuable insights into total sales, profit, orders, product performance, customer segments, and state-wise sales through interactive visualizations and filters. The dashboard enables users to make data-driven business decisions efficiently.
 
 Technology & Purpose
