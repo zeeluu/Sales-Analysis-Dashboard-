@@ -1,4 +1,4 @@
-📊 Project Title
+📊 Project Title: 
 Sales Analysis Dashboard | Power BI
 
 🚀 Headline
