@@ -1,5 +1,4 @@
-📊 Project Title: 
-Sales Analysis Dashboard | Power BI
+# A first-level heading 📊 Project Title: Sales Analysis Dashboard | Power BI
 
 🚀 Headline
 An Interactive Power BI Dashboard for Analyzing Sales Performance, Profitability, Customer Segments, and Business Trends.
