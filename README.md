@@ -54,9 +54,10 @@ Compare sales across states
 Analyze customer segments
 Track monthly sales trends
 Evaluate profitability
-📷 Dashboard Preview
 
+📷 Dashboard Preview
 Sales Analysis Dashboard
+https://github.com/zeeluu/Sales-Analysis-Dashboard-/blob/main/Dashboard.png
 
 📈 Dashboard Overview
 The dashboard consists of:
