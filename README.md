@@ -7,14 +7,14 @@ An Interactive Power BI Dashboard for Analyzing Sales Performance, Profitability
 📝 Short Description / Purpose
 This project is an interactive Sales Analysis Dashboard developed in Microsoft Power BI to help businesses monitor and analyze key sales metrics. It provides valuable insights into total sales, profit, orders, product performance, customer segments, and state-wise sales through interactive visualizations and filters. The dashboard enables users to make data-driven business decisions efficiently.
 
-Technology & Purpose
+Technology & Purpose :
 Power BI Desktop --> Dashboard Development
 Power Query	--> Data Cleaning & Transformation
 DAX	--> KPI Measures & Calculations
 Microsoft Excel	--> Data Source
 Data Modeling -->	Relationship Management
 
-Data Source
+Data Source: 
 Source: Microsoft Excel Dataset
 Records: Sales Transaction Data
 Includes:
@@ -28,34 +28,34 @@ Profit
 Quantity
 ✨ Features / Highlights
 
-✅ Interactive KPI Cards
+✅ Interactive KPI Cards: 
 Total Sales
 Total Profit
 Total Orders
 Average Sales
 Profit Margin
 
-✅ Interactive Filters
+✅ Interactive Filters: 
 Order Date
 Category
 Segment
 State
 
-✅ Visualizations
+✅ Visualizations: 
 📈 Monthly Sales Trend
 📊 Sales by Category
 📍 Sales by State
 🍩 Sales by Segment
 📋 Product Sales & Profit Table
 
-✅ Business Insights
+✅ Business Insights: 
 Identify top-performing products
 Compare sales across states
 Analyze customer segments
 Track monthly sales trends
 Evaluate profitability
 
-📷 Dashboard Preview
+📷 Dashboard Preview: 
 Sales Analysis Dashboard
 https://github.com/zeeluu/Sales-Analysis-Dashboard-/blob/main/Dashboard.png
 
