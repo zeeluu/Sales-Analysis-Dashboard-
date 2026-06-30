@@ -54,8 +54,7 @@ Track monthly sales trends
 Evaluate profitability
 
 📷 Dashboard Preview: 
-Sales Analysis Dashboard
-!(https://github.com/zeeluu/Sales-Analysis-Dashboard-/blob/main/Dashboard.png)
+![Sales Analysis Dashboard](https://github.com/zeeluu/Sales-Analysis-Dashboard-/blob/main/Dashboard.png)
 
 📈 Dashboard Overview
 The dashboard consists of:
